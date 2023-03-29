@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gencho</h1> 
 <h3 align="center">A passionate Software developer in test from the sunny country of Bulgaria.</h3> 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY4ZWEwNTVhOGMyM2M5NjlhNzhlMTRlMTFjZWZiYzVkZGI4YjcyNSZjdD1z/xBTSwCTFkgfcdTjHMz/giphy.gif" height="200" width="200" align="center"/>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY4ZWEwNTVhOGMyM2M5NjlhNzhlMTRlMTFjZWZiYzVkZGI4YjcyNSZjdD1z/xBTSwCTFkgfcdTjHMz/giphy.gif" height="200" width="200">
+</div>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 Some of my projects are available at [https://github.com/kerkeniakov](https://github.com/kerkeniakov)
