@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on cool auditing software at KPMG
 
-- 👨‍💻 Some of my projects are available at [https://github.com/kerkeniakov](https://github.com/kerkeniakov)
+- 👨‍💻 Some of my projects/contributions are available at [https://github.com/kerkeniakov](https://github.com/kerkeniakov)
 
 - 💬 Ask me anything about my passion -> **Typescript / Node.js / WebdriverIO / Automation testing infrastructure**
 
