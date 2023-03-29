@@ -10,9 +10,9 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/kerkeniakov](https://github.com/kerkeniakov)
 
-- 💬 Ask me about **WebdriverIO / Playwright / Automation testing infrastructure / Consulting**
+- 💬 Ask me anything about my passion -> **Typescript / Node.js / WebdriverIO / Playwright / Aerokube / Selenoid / Automation testing infrastructure**
 
-- 📫 How to reach me **kerkeniakov@gmail.com**
+- 📫 You can reach me at **kerkeniakov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
