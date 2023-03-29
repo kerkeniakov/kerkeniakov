@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gencho</h1> 
+<h1 align="center">Hi 👋, I'm Gencho Kerkeniakov</h1> 
 <h3 align="center">A passionate Software developer in test from the sunny country of Bulgaria.</h3> 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY4ZWEwNTVhOGMyM2M5NjlhNzhlMTRlMTFjZWZiYzVkZGI4YjcyNSZjdD1z/xBTSwCTFkgfcdTjHMz/giphy.gif" height="200" width="200">
