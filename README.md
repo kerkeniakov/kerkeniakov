@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gencho</h1> <img align="right" height="150px" width="150px" src="./profile-picture.jpg">
+<h1 align="center">Hi 👋, I'm Gencho</h1> <img align="right" height="220px" width="220px" src="./profile-picture.jpg">
 <h3 align="center">A passionate Software developer in test from the sunny country of Bulgaria.</h3>
 
 
