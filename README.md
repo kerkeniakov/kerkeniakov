@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gencho</h1> <img align="right" height="200px" width="200px" src="./profile-picture.jpg">
-<h3 align="center">A passionate Software developer in test from the sunny country of Bulgaria.</h3>
-
-
+<h1 align="center">Hi 👋, I'm Gencho</h1> 
+<h3 align="left">A passionate Software developer in test from the sunny country of Bulgaria.</h3> <img align="right" height="200px" width="200px" src="./profile-picture.jpg"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
